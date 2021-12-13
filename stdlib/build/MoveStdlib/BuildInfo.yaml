@@ -1,0 +1,74 @@
+---
+root_path: /Users/tzakian/old_home/tzakian/work/diem/language/move-stdlib/build/MoveStdlib
+compiled_package_info:
+  package_name: MoveStdlib
+  address_alias_instantiation:
+    Std: "00000000000000000000000000000001"
+  module_resolution_metadata:
+    ? address: "00000000000000000000000000000001"
+      name: BCS
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: BCSTests
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: BitVector
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: BitVectorTests
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: Capability
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: CapabilityTests
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: Errors
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: ErrorsTests
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: Event
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: EventTests
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: FixedPoint32
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: FixedPoint32Tests
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: Hash
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: HashTests
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: Option
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: OptionTests
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: Signer
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: UnitTest
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: Vector
+    : Std
+    ? address: "00000000000000000000000000000001"
+      name: VectorTests
+    : Std
+  source_digest: DDA64695E979152BECC983149BDAD1D2F4B076E0DD6DF302F7D59449A268426C
+  build_flags:
+    dev_mode: true
+    test_mode: true
+    generate_docs: false
+    generate_abis: false
+dependencies: []

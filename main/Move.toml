@@ -1,0 +1,10 @@
+[package]
+name = "Message"
+version = "0.0.0"
+
+[addresses]
+Sender = "_"
+
+[dependencies]
+MoveStdlib = { local = "../stdlib", addr_subst = { "Std" = "0x1" }}
+DiemExperimental = { local = "../../old_home/tzakian/work/diem/diem-move/diem-framework/experimental" }
